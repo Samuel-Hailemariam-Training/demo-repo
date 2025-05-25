@@ -1,3 +1,3 @@
 # Fist Repository
 
-Some description!
+Some description.
